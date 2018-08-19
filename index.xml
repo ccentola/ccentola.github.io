@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>Another Test...</title>
-      <link>/posts/third-post/</link>
-      <pubDate>Fri, 17 Aug 2018 11:10:53 -0400</pubDate>
-      
-      <guid>/posts/third-post/</guid>
-      <description>This is a third post to test my publication workflow.</description>
-    </item>
-    
-    <item>
       <title>Second Post</title>
       <link>/posts/second-post/</link>
       <pubDate>Fri, 17 Aug 2018 10:05:33 -0400</pubDate>
